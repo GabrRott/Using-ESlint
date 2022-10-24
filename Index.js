@@ -1,6 +1,6 @@
 const firstName = "Gabriel";
-const lastName = 'Roatta';
-const estudiante = firstName.concat(` `,lastName) ;
+const lastName = "Roatta";
+const estudiante = firstName.concat(" ",lastName) ;
 
 let estudianteMayus = estudiante.toUpperCase();
 let estudianteMinus = estudiante.toLowerCase();
